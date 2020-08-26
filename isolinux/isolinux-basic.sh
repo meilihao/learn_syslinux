@@ -4,7 +4,6 @@ set -e
 
 echo -e "--- start isolinux-basic.sh ---\n\n"
 # https://www.chengweiyang.cn/2011/08/13/create-linux-system-iso/
-# https://www.codenong.com/cs105923217/
 # https://wiki.gentoo.org/wiki/Syslinux
 
 SyslinuxRoot=../syslinux-root
