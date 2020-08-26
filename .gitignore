@@ -1,0 +1,4 @@
+/syslinux-root
+/syslinux-6.03.tar.xz
+*.iso
+isolinux/
